@@ -1,11 +1,11 @@
 ![Options Analysis](https://img.shields.io/badge/Options-Volatility_Analysis-blue?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 
-<img src="https://cdn.simpleicons.org/googlefinance/4285F4" width="40" alt="finance icon">
+<img src="https://cdn.simpleicons.org/tradingview/2962FF" width="40" alt="finance icon">
 
 # AAPL: Implied vs Historical Volatility
 
-![Apple](https://dribbble.com/shots/13854667-Colorful-apple-logo-animation)
+<img src="https://cdn.dribbble.com/userupload/28064400/file/original-fb37716922a9fcc442c7141ff1421193.gif" width="400" alt="apple icon">
 
 A from-scratch options pricing project comparing what AAPL's volatility 
 **actually was** (historical volatility) against what the options market is 
